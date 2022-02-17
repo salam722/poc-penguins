@@ -12,9 +12,13 @@
 `BoardGames Through the Ages` is a Proof of Concept (PoC project made by Team Penguin for Daugherty University. <br />
 Team Penguin comprises of a Business Analtyics and a Data Engineering student.
 
-We were to select a dataset from [Kaggle](https://www.kaggle.com/threnjen/board-games-database-from-boardgamegeek) to begin work for the PoC.
+Selected a dataset from [Kaggle](https://www.kaggle.com/threnjen/board-games-database-from-boardgamegeek) for our PoC project.
+### What we would like to accomplish?
+  1. Introduce the board games from years BCE. 
+  2. Ratings of earliest board games
+  3. All time favorite categories and board games.
 
-This PoC includes:
+### This PoC includes:
 - A data profile
 - A Concept model from LucidCharts
 - The Data Definition Language (DDL) used to create the tables in an RDBMS (Postgres)
