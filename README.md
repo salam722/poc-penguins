@@ -37,6 +37,9 @@ First,
 
 This monstrous dataset Team Penguin came across was the ultimate repository for boardgames throughout human history. Tens of thousands of rows that included ranks, categories, recommended timeframe and user age, ratings, and expansive columns that described each board game and the year it was published. From how this dataset is being described, you can probably guess that there was just an overwhelming load of information. A lot we didn't need in order to portray our goal as a team. We wanted to deliver a complete and fully saturated file of thousands of games without running into blank spaces and disingenuous information. 
 
+We started with about 29 thousand rows. 
+It was a massive file, categories
+
 # Issues and TO DOs
 
 
