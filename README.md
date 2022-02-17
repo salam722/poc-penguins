@@ -24,7 +24,9 @@ This PoC includes:
 # Data Profile
 ![image](https://user-images.githubusercontent.com/99750060/154522627-b1a0c52f-4bd3-4857-b762-35bdb1ad380a.png)
 
+
 # Concept Model
+![image](https://user-images.githubusercontent.com/99750060/154523366-5aae4e38-6ff4-4ab5-b321-25434b098204.png)
 
 # DDL
 
