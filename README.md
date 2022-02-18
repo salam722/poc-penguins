@@ -26,8 +26,7 @@ Selected a dataset from [Kaggle](https://www.kaggle.com/threnjen/board-games-dat
 - Visualizations using PowerBI.
 
 # Data Profile
-![image](https://user-images.githubusercontent.com/99750060/154522627-b1a0c52f-4bd3-4857-b762-35bdb1ad380a.png)
-
+![image](https://user-images.githubusercontent.com/99750060/154560129-4485fde1-1c6b-49ca-ba6b-4c28efa34ecb.png)
 
 # Concept Model
 ![image](https://user-images.githubusercontent.com/99750060/154523366-5aae4e38-6ff4-4ab5-b321-25434b098204.png)
@@ -41,8 +40,10 @@ First,
 
 This monstrous dataset Team Penguin came across was the ultimate repository for boardgames throughout human history. Tens of thousands of rows that included ranks, categories, recommended timeframe and user age, ratings, and expansive columns that described each board game and the year it was published. From how this dataset is being described, you can probably guess that there was just an overwhelming load of information. A lot we didn't need in order to portray our goal as a team. We wanted to deliver a complete and fully saturated file of thousands of games without running into blank spaces and disingenuous information. 
 
-We started with about 29 thousand rows. 
-It was a massive file, categories
+We started with more than 29 thousand rows. 
+
+
+
 
 # Issues and TO DOs
 
